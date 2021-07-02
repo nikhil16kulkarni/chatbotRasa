@@ -64,7 +64,7 @@ Run the next commands in the terminal
 
 ```
 git add .
-git commit -am "some comments"
+git commit -m "some comments"
 git push
 ```
 
